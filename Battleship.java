@@ -1,3 +1,16 @@
+/**
+* Kyprian Knopp
+* 300250510 
+* COSC 111 002
+* October 31, 2025
+* 
+* 
+*
+*
+* 
+**/
+
+
 import java.util.Scanner;
 
 public class Battleship {
